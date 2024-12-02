@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "233510579068",
+    "project_id": "hope-water-1945d",
+    "storage_bucket": "hope-water-1945d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233510579068:android:a6addda67b52a0b69352f9",
+        "android_client_info": {
+          "package_name": "com.example.hopewater"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHtdAYP9SmZIlnJTydP31j4JIdGBNj0WY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
